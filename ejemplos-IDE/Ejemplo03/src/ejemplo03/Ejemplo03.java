@@ -27,8 +27,8 @@ public class Ejemplo03 {
         el comentario y al final se pone * / todo junto
         */
         int variable1;
-        int variable2 = 10;
-        int valorInicial = 18;
+        int variable2 = 10; // ok
+        int valorInicial = 18; // ok
         int valor_inicial = 18;
         // int valor inicial = 18;
         int valor_inicial_2 = 18;
@@ -46,7 +46,7 @@ public class Ejemplo03 {
         char variable8 = 'a';
 
         // tipo de dato boolean - boleano
-        boolean variable9 = false;
+        boolean variable9 = false; // En python se usa mayuscula la primera letra
         boolean variable10 = true;
         
         boolean variable11 = false;
